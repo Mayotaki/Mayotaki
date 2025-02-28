@@ -21,4 +21,21 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=Mayotaki&locale=en&mode=daily&theme=ambient_gradient&hide_border=true" height="150" alt="streak graph"  />
 </div>
 
+# Hi, I'm Mayotaki 👋 
 
+<div align="center">
+  <img src="https://i.imgur.com/6x7BulM.gif" width="300"> <!-- Анимированная гифка с кошкодевочкой -->
+  
+  ~~~*(ෆ˙ᵕ˙ෆ)♡~~~ 𝓜𝓪𝔂𝓸𝓽𝓪𝓴𝓲'𝓼 𝓢𝓪�𝓬𝓽𝓾𝓪𝓻𝔂 ~~~♡(ෆ˘͈ᵕ˘͈)*~~~
+</div>
+
+## <img src="https://i.imgur.com/URFj8hP.gif" width="25"> 𝓐𝓫�𝖔𝖚𝖙 𝓜𝖊
+
+```javascript
+const mayotaki = {
+  pronouns: "she/her" | "nya/nyan",
+  code: [Bash, Python, JavaScript],
+  tools: [Docker, Kubernetes, Terraform],
+  architecture: ["microservices", "CI/CD pipelines"],
+  obsession: ["Anime art", "Neko girls", "Retro tech"]
+}
