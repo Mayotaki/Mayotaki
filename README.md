@@ -14,5 +14,9 @@
     align-items: center;
     justify-content: space-between;
     padding: 20px;
+  }
+  .stats {
+    max-width: 50%;
+  }
 </style>
 ## 🐾 About Me
