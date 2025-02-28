@@ -1,6 +1,6 @@
 # Hi, I'm Mayotaki 👋 
 
-<div display="flex">
+<div display="flex" align-items="center" justify-content="space-between" padding=20px>
   <img src="https://i.gifer.com/1dTC.gif" width="300"> 
   <div class="stats" align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=Mayotaki&hide_title=true&show_icons=true&include_all_commits=true&theme=ambient_gradient&locale=en&hide_border=true" height="150" alt="stats graph"  /> <br>
