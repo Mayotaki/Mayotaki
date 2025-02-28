@@ -1,7 +1,5 @@
 # Hi, I'm Mayotaki 👋
 
-![Background](https://via.placeholder.com/1000x200/000000/FFFFFF?text=Welcome+to+my+profile)
-
 <table>
   <tr>
     <td><img src="https://i.gifer.com/1dTC.gif" width="270" alt="Animated Image"></td>
