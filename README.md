@@ -8,4 +8,11 @@
   </div>
 </div>
 
+<style>
+  .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+</style>
 ## 🐾 About Me
