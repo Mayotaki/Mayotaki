@@ -1,5 +1,7 @@
 # Hi, I'm Mayotaki 👋
 
+![Background](https://via.placeholder.com/1000x200/000000/FFFFFF?text=Welcome+to+my+profile)
+
 <table>
   <tr>
     <td><img src="https://i.gifer.com/1dTC.gif" width="270" alt="Animated Image"></td>
@@ -19,3 +21,9 @@ My programming journey started with learning the basics of development, and now 
 I am always open to new knowledge and willing to experiment with different technologies. When not programming, I like to spend time with friends doing something fun or just enjoying a good movie.
 
 If you have ideas for projects or want to socialize, don't hesitate to get in touch! Always excited for new acquaintances and opportunities. 😊
+
+## 🚀 Technologies
+
+- **Programming Languages**: Python
+- **Tools**: Git, Docker, Jenkins
+- **OS**: Unix/Linux
