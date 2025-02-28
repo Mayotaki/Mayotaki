@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ## 🐾 About Me
 
 ```javascript
