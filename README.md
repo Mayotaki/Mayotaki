@@ -1,7 +1,7 @@
 # Hi, I'm Mayotaki 👋 
 
 <div align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fneko&psig=AOvVaw1-7SDD8bCWOooX_s7tkYFx&ust=1740857993151000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOj24sSP54sDFQAAAAAdAAAAABAJ" width="300"> 
+  <img src="https://i.gifer.com/1dTC.gif" width="300"> 
   
 
 </div>
