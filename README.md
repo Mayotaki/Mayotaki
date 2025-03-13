@@ -2,9 +2,9 @@
 
 <table>
   <tr>
-    <td><img src="https://i.gifer.com/1dTC.gif" height="250" alt="Animated Image"></td>
+    <td><img src="https://i.gifer.com/1dTC.gif" height="230" alt="Animated Image"></td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Mayotaki&hide_title=true&show_icons=true&include_all_commits=true&theme=ambient_gradient&locale=en&hide_border=true" height="250" alt="Stats Graph" /><br>
+      <img src="https://github-readme-stats.vercel.app/api?username=Mayotaki&hide_title=true&show_icons=true&include_all_commits=true&theme=ambient_gradient&locale=en&hide_border=true" height="230" alt="Stats Graph" /><br>
     </td>
   </tr>
 </table>
