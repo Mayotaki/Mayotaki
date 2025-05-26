@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td><img src="https://i.gifer.com/1dTC.gif" height="200" alt="Animated Image"></td>
+    <td><img src="https://i.gifer.com/1dTC.gif" height="400" alt="Animated Image"></td>
   </tr>
 </table>
 
