@@ -1,6 +1,6 @@
 # Hi, I'm Mayotaki 👋
 
-This is me ⬇️
+It's me ⬇️
 <table>
   <tr>
     <td><img src="https://i.gifer.com/1dTC.gif" alt="My photo"></td>
