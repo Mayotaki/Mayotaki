@@ -3,9 +3,6 @@
 <table>
   <tr>
     <td><img src="https://i.gifer.com/1dTC.gif" height="200" alt="Animated Image"></td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Mayotaki&hide_title=true&show_icons=true&include_all_commits=true&theme=ambient_gradient&locale=en&hide_border=true" height="205" alt="Stats Graph" /><br>
-    </td>
   </tr>
 </table>
 
