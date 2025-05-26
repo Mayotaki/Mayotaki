@@ -3,7 +3,7 @@
 This is me ⬇️
 <table>
   <tr>
-    <td><img src="https://i.gifer.com/1dTC.gif" height="400" width="400" alt="My photo"></td>
+    <td><img src="https://i.gifer.com/1dTC.gif" alt="My photo"></td>
   </tr>
 </table>
 
